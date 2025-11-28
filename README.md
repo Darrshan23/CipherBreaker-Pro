@@ -37,14 +37,3 @@ CipherBreaker Pro is an advanced C# application that teaches cutting-edge crypto
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - Visual Studio 2022, VS Code, or JetBrains Rider
 
-### Installation & Run
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/CipherBreakerPro.git
-cd CipherBreakerPro
-
-# Restore dependencies
-dotnet restore
-
-# Run the application
-dotnet run
