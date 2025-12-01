@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DHo+9ZG0gas=",
+  "dgSpecHash": "3h6vPR5lQig=",
   "success": false,
-  "projectFilePath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
+  "projectFilePath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CipherBreaker Pro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darrs\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
@@ -11,8 +11,8 @@
       "code": "NU1102",
       "level": "Error",
       "message": "Unable to find package BouncyCastle with version (>= 2.2.1)\r\n  - Found 10 version(s) in nuget.org [ Nearest version: 1.8.9 ]\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages",
-      "projectPath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
-      "filePath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
+      "projectPath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CipherBreaker Pro.csproj",
+      "filePath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CipherBreaker Pro.csproj",
       "libraryId": "BouncyCastle",
       "targetGraphs": [
         "net10.0"

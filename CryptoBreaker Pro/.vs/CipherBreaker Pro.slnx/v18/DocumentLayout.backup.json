@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CipherBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\cipherbreaker pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CipherBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\cipherbreaker pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\services\\challengefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\services\\challengefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\services\\progressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\services\\progressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\models\\challengeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\models\\challengeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\models\\ecpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\models\\ecpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\cryptoutils\\mathextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7852C5-BEA9-0A87-A8E1-1A66A2F3F881}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\cryptoutils\\mathextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChallengeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Services\\ChallengeFactory.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Services\\ChallengeFactory.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Services\\ChallengeFactory.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Services\\ChallengeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:32:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgressService.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Services\\ProgressService.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Services\\ProgressService.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Services\\ProgressService.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Services\\ProgressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:32:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CryptoBreaker Pro",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CipherBreaker Pro.csproj",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\CipherBreaker Pro.csproj",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CipherBreaker Pro.csproj*",
+              "RelativeToolTip": "CryptoBreaker Pro\\CipherBreaker Pro.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T13:32:03.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChallengeResult.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Models\\ChallengeResult.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Models\\ChallengeResult.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Models\\ChallengeResult.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Models\\ChallengeResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:31:59.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECPoint.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Models\\ECPoint.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Models\\ECPoint.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Models\\ECPoint.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Models\\ECPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:31:47.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MathExtension.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoUtils\\MathExtension.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\CryptoUtils\\MathExtension.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoUtils\\MathExtension.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\CryptoUtils\\MathExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:31:01.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

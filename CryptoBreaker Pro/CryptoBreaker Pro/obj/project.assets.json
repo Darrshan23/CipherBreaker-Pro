@@ -61,9 +61,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
-      "projectName": "CryptoBreaker Pro",
-      "projectPath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
+      "projectUniqueName": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CipherBreaker Pro.csproj",
+      "projectName": "CipherBreaker Pro",
+      "projectPath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CipherBreaker Pro.csproj",
       "packagesPath": "C:\\Users\\darrs\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\obj\\",
       "projectStyle": "PackageReference",
