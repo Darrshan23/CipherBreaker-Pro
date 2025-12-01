@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\challenges\\rsachallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\challenges\\rsachallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\challenges\\aescbcchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\challenges\\aescbcchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\challenges\\eccchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\challenges\\eccchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\challenges\\ichallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\challenges\\ichallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|c:\\users\\darrs\\onedrive\\desktop\\evolved hackers club\\cipherbreaker-pro\\cryptobreaker pro\\cryptobreaker pro\\cryptobreaker pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4BC87F0-14C6-4FA6-AEA1-E526327C61CE}|CryptoBreaker Pro\\CryptoBreaker Pro.csproj|solutionrelative:cryptobreaker pro\\cryptobreaker pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECCChallenge.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\ECCChallenge.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Challenges\\ECCChallenge.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\ECCChallenge.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Challenges\\ECCChallenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:12:36.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AESCBCChallenge.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\AESCBCChallenge.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Challenges\\AESCBCChallenge.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\AESCBCChallenge.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Challenges\\AESCBCChallenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:12:14.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSAChallenge.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\RSAChallenge.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Challenges\\RSAChallenge.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\RSAChallenge.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Challenges\\RSAChallenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:11:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChallenge.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\IChallenge.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Challenges\\IChallenge.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Challenges\\IChallenge.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Challenges\\IChallenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:11:33.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProgress.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Models\\UserProgress.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Models\\UserProgress.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Models\\UserProgress.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Models\\UserProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:10:42.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CryptoBreaker Pro",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
+              "RelativeToolTip": "CryptoBreaker Pro\\CryptoBreaker Pro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T13:06:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoBreaker Pro\\Program.cs",
+              "ToolTip": "C:\\Users\\darrs\\OneDrive\\Desktop\\Evolved Hackers Club\\CipherBreaker-Pro\\CryptoBreaker Pro\\CryptoBreaker Pro\\Program.cs",
+              "RelativeToolTip": "CryptoBreaker Pro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:03:03.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

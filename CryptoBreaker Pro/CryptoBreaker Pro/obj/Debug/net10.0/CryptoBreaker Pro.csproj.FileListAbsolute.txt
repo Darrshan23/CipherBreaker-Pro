@@ -1,0 +1,15 @@
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\bin\Debug\net10.0\CryptoBreaker Pro.exe
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\bin\Debug\net10.0\CryptoBreaker Pro.deps.json
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\bin\Debug\net10.0\CryptoBreaker Pro.runtimeconfig.json
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\bin\Debug\net10.0\CryptoBreaker Pro.dll
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\bin\Debug\net10.0\CryptoBreaker Pro.pdb
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.AssemblyInfoInputs.cache
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.AssemblyInfo.cs
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.csproj.CoreCompileInputs.cache
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.sourcelink.json
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.dll
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\refint\CryptoBreaker Pro.dll
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.pdb
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\CryptoBreaker Pro.genruntimeconfig.cache
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\CipherBreaker-Pro\CryptoBreaker Pro\CryptoBreaker Pro\obj\Debug\net10.0\ref\CryptoBreaker Pro.dll
